@@ -1,16 +1,12 @@
-## Merhaba ben Galip 👋
+### Hello, I'm Galip 👋
 
+I go with the flow.  
+Sometimes I dive into Kdenlive, sometimes it's Python, sometimes FreeCAD.  
+Mostly on Linux (EndeavourOS / KDE Plasma 6 + Wayland).  
+I enjoy creating things — visuals, tools, or just weird little experiments.
 
+🎮 Games I like: Tannenberg, Verdun, Team Fortress 2, 0 A.D.  
+🧠 Currently learning: Spanish, Python, Bash  
+🛠️ Fiddling with open-source, automating stuff, and staying curious.
 
-## Hakkımda
-- 📚 Eğitim: [Trabzon Üniversitesi / İnternet Ve Ağ Teknolojileri]
-- 🌱 Şu anda öğreniyorum: [Sistem Yönetimi]
-
-
-## İlgi Alanlarım
-- 💻 Sistem Yönetimi
-- 🎮 Oyun Geliştirme
-
-## GitHub İstatistiklerim
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Galip-Dede&show_icons=true&theme=radical)](https://github.com/Galip-Dede)
-
+No big goals — just exploring and building whatever feels fun.
